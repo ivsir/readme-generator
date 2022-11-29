@@ -29,12 +29,6 @@ It prompts users to enter information about their project into the terminal and 
 ## Credits
 Risvi Tareq
 
-## License
-This is an MIT license.
-
-## How to Contribute
-Risvi Tareq
-
 ## Tests
 <ol>
     <li>Go to the terminal for the corresponding folder.</li>

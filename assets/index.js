@@ -113,7 +113,7 @@ ${answers.installationSteps}
 
 ## Usage
 <a href="${answers.livePage}">This is the link to my WebPage</a>
-${answers.repoUsage}
+<p>${answers.repoUsage}</p>
 <img src="${answers.screenshot}">
 
 ## Credits
@@ -134,7 +134,7 @@ ${answers.testSteps}
 
 `;
 
-    fs.writeFile('./README.md', template, () => {
+    fs.writeFile('./userREADME.md', template, () => {
         console.log(answers)
     } )
   });

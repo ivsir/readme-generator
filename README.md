@@ -11,7 +11,6 @@ It prompts users to enter information about their project into the terminal and 
         <li><a href="#Installation">How to Use this Project</a></li>
         <li><a href="#Usage">Usage</a></li>
         <li><a href="#Credits">Credits</a></li>
-        <li><a href="#License">License</a></li>
         <li><a href="#How to Contribute">How to Contribute</a></li>
         <li><a href="#Tests">Tests</a></li>
         <li><a href="#Questions">Questions</a></li>

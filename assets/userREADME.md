@@ -1,9 +1,9 @@
-# Readme Generator
+# Readme generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-It requires users to put in information for a readme.
+I created a readme generator using node inquirer package.
 
 ## Table of Contents
 <nav>
@@ -19,11 +19,11 @@ It requires users to put in information for a readme.
 </nav>
 
 ## Installation
-<li>Download the json package.
+none
 
 ## Usage
-<a href="none">This is the link to my WebPage</a>
-None
+<a href="google.com">This is the link to my WebPage</a>
+<p>nothing</p>
 <img src="/Users/risvitareq/code/readme-generator/assets/images/screenshot.png">
 
 ## Credits
@@ -36,7 +36,7 @@ This is an MIT license.
 none
 
 ## Tests
-None
+none
 
 ## Questions
 <li>https://github.com/ivsir </li>

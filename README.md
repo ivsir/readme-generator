@@ -21,7 +21,7 @@ It prompts users to enter information about their project into the terminal and 
 <ol><li>Download the inquirer package from json</li></ol>
 
 ## Usage
-<img src="/Users/risvitareq/code/readme-generator/assets/images/screenshot.png">
+<img src="/Users/risvitareq/code/readme-generator/assets/images/screenrecording.gif">
 
 ## Credits
 Risvi Tareq

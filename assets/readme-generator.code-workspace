@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UCSD-VIRT-FSF-PT-09-2022-U-LOLC/09-NodeJS"
+		},
+		{
+			"path": "../UCSD-VIRT-FSF-PT-09-2022-U-LOLC/10-OOP"
+		},
+		{
+			"path": "../Weather-Dashboard"
+		}
+	],
+	"settings": {}
+}

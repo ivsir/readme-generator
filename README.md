@@ -22,7 +22,11 @@ It prompts users to enter information about their project into the terminal and 
 
 ## Usage
 
-https://user-images.githubusercontent.com/106352994/204933081-178f65e8-d101-446e-9422-2532e867399e.mp4
+
+
+https://user-images.githubusercontent.com/106352994/204933178-7aae64a0-c6ea-43d0-9b94-f9d7eb3b8cba.mp4
+
+
 
 
 ## Credits
